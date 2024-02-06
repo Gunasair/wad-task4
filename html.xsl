@@ -2,8 +2,8 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="/">
     <html>
-      <head bgcolor="#ffff00">
-        <title>Website Information</title>
+      <head>
+        <h1 align = "center">Website Information</h1>
       </head>
       <style>
           table {
@@ -15,7 +15,10 @@
             text-align: left;
             padding: 8px;
           }
-         
+         th {
+        background-color: #9acd32;
+            color: white;
+        }
         </style>
       <body>
         <h1>List of Websites</h1>
