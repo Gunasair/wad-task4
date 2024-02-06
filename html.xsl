@@ -6,7 +6,7 @@
         <title>Website Information</title>
       </head>
       <style>
-      th,td {
+      table {
             background-color: #00ff00;
           }
       </style>
