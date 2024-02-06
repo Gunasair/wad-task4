@@ -5,10 +5,28 @@
       <head bgcolor="#ffff00">
         <title>Website Information</title>
       </head>
+      <style>
+          table {
+            border-collapse: collapse;
+            width: 100%;
+          }
+          th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+          }
+          tr:nth-child(even) {
+            background-color: #f2f2f2;
+          }
+          th {
+            background-color: #9acd32;
+            color: white;
+          }
+        </style>
       <body>
         <h1>List of Websites</h1>
-        <table border="1">
-          <tr bgcolor="#9acd32">
+        <table border="2">
+          <tr >
             <th>S.No</th>
             <th>Website Name</th>
             <th>Uses</th>
