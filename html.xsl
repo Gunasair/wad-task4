@@ -3,7 +3,7 @@
   <xsl:template match="/">
     <html>
       <head>
-        <h1 align = "center">Website Information</h1>
+        <h1>Website Information</h1>
       </head>
       <style>
           table {
@@ -16,8 +16,13 @@
             padding: 8px;
           }
          tr {
-        background-color: #9acd32;
+            background-color: #f2f2f2;
+          }
+          th {
+            background-color: #9acd32;
             color: white;
+        h1{
+             text-align: center;
         }
         </style>
       <body>
