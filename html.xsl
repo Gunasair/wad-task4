@@ -2,14 +2,9 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="/">
     <html>
-      <head align="center">
+      <head bgcolor="#ffff00">
         <title>Website Information</title>
       </head>
-      <style>
-      table {
-            background-color: #00ff00;
-          }
-      </style>
       <body>
         <h1>List of Websites</h1>
         <table border="1">
