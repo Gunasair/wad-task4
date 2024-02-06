@@ -3,11 +3,11 @@
   <xsl:template match="/">
     <html>
       <head>
-        <title>Website Information</title>
+        <title align="center">Website Information</title>
       </head>
       <body>
         <h1>List of Websites</h1>
-        <table border="1">
+        <table border="1" align ="center">
           <tr bgcolor="#9acd32">
             <th>S.No</th>
             <th>Website Name</th>
