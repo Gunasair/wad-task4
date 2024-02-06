@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="html.xsl"?>
+
+<websites>
+<website-1>
+<S.No>1</S.No>
+<Website-Name>Google Drive</Website-Name>
+<Uses>Cloud storage and collaboration</Uses>
+<Features>File sharing, document editing, real-time collaboration</Features>
+</website-1>
+
+<website-2>
+<S.No>2</S.No>
+<Website-Name>Microsoft Office 365</Website-Name>
+<Uses>Productivity tools</Uses>
+<Features>Document creation, spreadsheet analysis, presentation design</Features>
+</website-2>
+
+<website-3>
+<S.No>3</S.No>
+<Website-Name>Canvas</Website-Name>
+<Uses> Learning management system</Uses>
+<Features>Course management, assignments, quizzes, discussions</Features>
+</website-3>
+
+<website-4>
+<S.No>4</S.No>
+<Website-Name>Blackboard</Website-Name>
+<Uses>Learning management system</Uses>
+<Features>Course materials, assessments, communication tools</Features>
+</website-4>
+
+<website-5>
+<S.No>5</S.No>
+<Website-Name>YouTube</Website-Name>
+<Uses>Video hosting and sharing</Uses>
+<Features>Educational videos, tutorials, lectures</Features>
+</website-5>
+
+<website-6>
+<S.No>6</S.No>
+<Website-Name>Wikipedia</Website-Name>
+<Uses>Online encyclopedia</Uses>
+<Features>Reference material on a wide range of topics</Features>
+</website-6>
+
+<website-7>
+<S.No>7</S.No>
+<Website-Name>Quizlet</Website-Name>
+<Uses>Flashcards and study tools</Uses>
+<Features>Create and share flashcards, quizzes, and study sets</Features>
+</website-7>
+
+<website-8>
+<S.No>8</S.No>
+<Website-Name>Khan Academy</Website-Name>
+<Uses>Online learning platform</Uses>
+<Features>Video lessons, practice exercises, personalized learning</Features>
+</website-8>
+
+<website-9>
+<S.No>9</S.No>
+<Website-Name>Coursera</Website-Name>
+<Uses>Online courses from universities and organizations</Uses>
+<Features>Courses on various subjects, certificates, degrees</Features>
+</website-9>
+
+<website-10>
+<S.No>10</S.No>
+<Website-Name>EdX</Website-Name>
+<Uses>Online courses and programs</Uses>
+<Features>University-level courses, certificates, micro-credentials</Features>
+</website-10>
+
+<website-11>
+<S.No>11</S.No>
+<Website-Name>Grammarly</Website-Name>
+<Uses>Writing assistance and grammar checking</Uses>
+<Features>Spelling and grammar correction, writing suggestions</Features>
+</website-11>
+
+<website-12>
+<S.No>12</S.No>
+<Website-Name>JSTOR</Website-Name>
+<Uses>Digital library for academic journals, books</Uses>
+<Features>Extensive collection of scholarly resources</Features>
+</website-12>
+
+<website-13>
+<S.No>13</S.No>
+<Website-Name>SparkNotes</Website-Name>
+<Uses>Study guides for literature, poetry, and other subjects</Uses>
+<Features>Summaries, analysis, and study aids</Features>
+</website-13>
+
+<website-14>
+<S.No>14</S.No>
+<Website-Name>Prezi</Website-Name>
+<Uses>Presentation software</Uses>
+<Features>Dynamic presentations with non-linear navigation</Features>
+</website-14>
+
+<website-15>
+<S.No>15</S.No>
+<Website-Name>Evernote</Website-Name>
+<Uses>Note-taking and organization</Uses>
+<Features>Note creation, organization, collaboration</Features>
+</website-15>
+
+<website-16>
+<S.No>16</S.No>
+<Website-Name>Dropbox</Website-Name>
+<Uses>Cloud storage and file sharing</Uses>
+<Features>File synchronization, collaboration tools</Features>
+</website-16>
+
+<website-17>
+<S.No>17</S.No>
+<Website-Name>Slack</Website-Name>
+<Uses>Team communication and collaboration</Uses>
+<Features>Channels, direct messaging, file sharing</Features>
+</website-17>
+
+<website-18>
+<S.No>18</S.No>
+<Website-Name>Trello</Website-Name>
+<Uses>Project management and collaboration</Uses>
+<Features>Boards, lists, cards for task organization</Features>
+</website-18>
+
+<website-19>
+<S.No>19</S.No>
+<Website-Name>GitHub</Website-Name>
+<Uses>Version control and collaboration for coding projects</Uses>
+<Features>Code repositories, collaboration tools</Features>
+</website-19>
+
+<website-20>
+<S.No>20</S.No>
+<Website-Name>TED</Website-Name>
+<Uses>Inspirational talks and lectures</Uses>
+<Features>Videos on a wide range of topics from experts</Features>
+</website-20>
+
+</websites>
