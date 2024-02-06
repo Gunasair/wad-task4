@@ -15,7 +15,7 @@
             text-align: left;
             padding: 8px;
           }
-         th {
+         tr {
         background-color: #9acd32;
             color: white;
         }
