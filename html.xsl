@@ -16,10 +16,10 @@
             padding: 8px;
           }
           tr {
-            background-color: #f2f2f2;
+            background-color: #7fffd4;
           }
           th {
-            background-color: #9acd32;
+            background-color: #ffd700;
             color: white;
           }
         </style>
