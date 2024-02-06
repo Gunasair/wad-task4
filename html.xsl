@@ -15,13 +15,7 @@
             text-align: left;
             padding: 8px;
           }
-          tr {
-            background-color: #7fffd4;
-          }
-          th {
-            background-color: #ffd700;
-            color: white;
-          }
+         
         </style>
       <body>
         <h1>List of Websites</h1>
