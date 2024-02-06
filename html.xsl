@@ -2,12 +2,17 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="/">
     <html>
-      <head>
-        <title align="center">Website Information</title>
+      <head align="center">
+        <title>Website Information</title>
       </head>
+      <style>
+      th,td {
+            background-color: #00ff00;
+          }
+      </style>
       <body>
         <h1>List of Websites</h1>
-        <table border="1" align ="center">
+        <table border="1">
           <tr bgcolor="#9acd32">
             <th>S.No</th>
             <th>Website Name</th>
