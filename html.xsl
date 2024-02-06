@@ -23,7 +23,6 @@
         }
         </style>
       <body>
-        <h1>WEBSITE INFORMATION</h1>
         <table border="2">
           <tr >
             <th>S.No</th>
