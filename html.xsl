@@ -2,9 +2,6 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="/">
     <html>
-      <head>
-        <h1>Website Information</h1>
-      </head>
       <style>
           table {
             border-collapse: collapse;
@@ -21,12 +18,12 @@
           th {
             background-color: #9acd32;
             color: white;
-        h1{
+        h1 {
              text-align: center;
         }
         </style>
       <body>
-        <h1>List of Websites</h1>
+        <h1>WEBSITE INFORMATION</h1>
         <table border="2">
           <tr >
             <th>S.No</th>
